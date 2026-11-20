@@ -1,0 +1,15 @@
+﻿{
+    "version":  "v1.8.19",
+    "tag_name":  "v1.8.19",
+    "name":  "Nugkey Automation v1.8.19",
+    "sha256":  "23acc36351a500717924da04ea10620e2c07e07372f3b41c4ff6be419a248184",
+    "sizeBytes":  506457,
+    "updaterSha256":  "cee6ef3eb8cf7744ce00b15834b25bfa63c19e43c7e53770db46c07e77a7dbaf",
+    "updaterSizeBytes":  57344,
+    "updaterVersionCode":  2,
+    "updaterUrl":  "https://raw.githubusercontent.com/NelsinhoNGR/nugkey-update/main/NugkeyUpdater.exe",
+    "publishedAt":  "2026-11-20T15:01:14Z",
+    "downloadUrl":  "https://raw.githubusercontent.com/NelsinhoNGR/nugkey-update/main/nugkey-ikar.jar",
+    "rawDownloadUrl":  "https://raw.githubusercontent.com/NelsinhoNGR/nugkey-update/main/nugkey-ikar.jar",
+    "changelog":  "- Movimentação"
+}
